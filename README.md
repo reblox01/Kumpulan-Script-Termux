@@ -1,3 +1,7 @@
+# Kumpulan-Script-Termux
+
+*How to Install Onex*
+
 ```
 pkg update && pkg upgrade
 pkg install bash
@@ -10,7 +14,9 @@ chmod +x install
 sh install
 ```
 
-Cara menggunakannya lgsg saja
+
+<h4>How to use it of course</h4>
+
 
 onex start
 
@@ -20,8 +26,8 @@ As per the title, here I will provide a collection of Termux scripts that still 
 
 Because, it's rare nowadays to get scripts that really work. 
 
-
-✓BOT COMMENTS AND INSTAGRAM LIKES 
+</br>
+*✓BOT COMMENTS AND INSTAGRAM LIKES*
 
 • `$ pkg update `
 
